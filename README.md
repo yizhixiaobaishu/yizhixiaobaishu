@@ -1,0 +1,2 @@
+# yizhixiaobaishu
+a new repository
